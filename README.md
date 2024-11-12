@@ -21,7 +21,6 @@ To get started, you need Python 3.6 or higher. Follow these steps:
    ```bash
    git clone https://github.com/Shresth-Agarwal/FMML_Project_And_Labs.git
    cd FMML_Project_And_Labs
-### **2nd Code Block: Installation Step 2 to End**
 ```markdown
 2. Download any datasets specified within each lab folder.
 
