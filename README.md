@@ -34,8 +34,9 @@ Each lab is presented as a Jupyter Notebook, which allows you to follow along, r
 To run a lab, navigate to the `Labs/` folder and open a Jupyter Notebook:
    ```bash
    jupyter notebook Labs/<lab_name>.ipynb
+```
 
-Learning Outcomes
+## Learning Outcomes
 By working through these labs, you will:
 
 Gain foundational knowledge of core machine learning concepts.
@@ -44,5 +45,5 @@ Learn about model evaluation techniques and parameter tuning.
 Contributing
 Since this is a course-related project, contributions may be limited. However, feel free to explore and learn from the code, and reach out if you have any questions!
 
-License
+## License
 This project is licensed under the MIT License.
