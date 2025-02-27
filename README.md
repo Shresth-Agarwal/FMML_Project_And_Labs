@@ -8,7 +8,6 @@ This repository contains lab exercises and assignments completed as part of the 
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Learning Outcomes](#learning-outcomes)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
